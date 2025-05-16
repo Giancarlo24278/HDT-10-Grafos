@@ -1,0 +1,4 @@
+Guatemala Escuintla 2 3 4 6
+Guatemala Chiquimula 4 6 8 12
+Escuintla Quetzaltenango 5 7 10 15
+Chiquimula Quetzaltenango 6 9 12 18
