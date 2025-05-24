@@ -1,4 +1,7 @@
-Guatemala Escuintla 2 3 4 6
-Guatemala Chiquimula 4 6 8 12
-Escuintla Quetzaltenango 5 7 10 15
-Chiquimula Quetzaltenango 6 9 12 18
+Guatemala Quetzaltenango 4 5 6 8
+Guatemala Coban 3 4 6 10
+Coban Flores 6 9 12 15
+Quetzaltenango Huehuetenango 2 3 4 6
+Flores PuertoBarrios 5 6 7 8
+Huehuetenango Coban 4 6 8 11
+PuertoBarrios Guatemala 7 10 13 15
